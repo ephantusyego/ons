@@ -1,0 +1,12 @@
+@charset "utf-8";
+ body {background-color: white;margin-left: 3%;margin-right: 2%;}
+.btn-success{background-color: green;width: 250px;}
+header{background-color: lightblue;}
+head {font-family:Times New Roman;font-style: italic;}
+footer {align-content: center; background-color: yellow;padding: 4px;}
+.pass{width: 200px; height: 50px; border-radius: 10px;}
+.uname{width: 200px;height: 50px;border-radius: 10px;}	
+table {font-family: arial, sans-serif;margin:20px; width: 80%;padding:5px;}
+td, th {border: 1px solid red;text-align:left;padding: 8px;}
+tr:nth-child(even) {background-color: #dddddd;}
+#logbody {background-color:blue;}
